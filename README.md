@@ -42,6 +42,3 @@ This simulation uses a simplified version of the wave equation. The following ar
    The movement of the water surface is visualized by mapping the height of each grid point as the intensity of the blue color.
 
 This model is very simplified, but is sufficient to simulate the basic motion of the water surface. Actual water behavior is more complex, but this simulation captures the basic characteristics of ripples and interference patterns on the water's surface.
-
-
-Translated with DeepL.com (free version)
