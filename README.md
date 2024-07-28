@@ -1,8 +1,6 @@
-## abst
+## water simulation
 
 ![image](https://github.com/user-attachments/assets/e3818470-836a-487c-a5d6-98de479663a6)
-
-
 
 This simulation uses a simplified version of the wave equation. The following are the main points
 
